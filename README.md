@@ -1,0 +1,2 @@
+# GitExerciseInClass
+Æfing í dæmatíma
